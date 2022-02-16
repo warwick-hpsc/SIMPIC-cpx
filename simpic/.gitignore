@@ -1,0 +1,11 @@
+build
+a.out
+potential.dat
+el_field.dat
+E*.dat
+phi*.dat
+vxx*.dat
+nt*.dat
+density*.dat
+*.log
+simpyenv

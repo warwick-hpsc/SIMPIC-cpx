@@ -1,6 +1,8 @@
 # SIMPIC-cpx
 A build of the SIMPIC mini-app compatible with the CPX mini-coupler
 
+To build, navigate to the mpi subdirectory and type "make all" for the binary or "make lib" to build the library (for CPX coupling).
+
 The original SIMPIC repo can be found [here](https://github.com/MoPHA/simpic).
 
 Original SIMPIC paper: 
